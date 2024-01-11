@@ -14,7 +14,7 @@ Customer data has been taken from Kaggle in CSV format and imported to My SQL Wo
 
 ## Analyzing data using SQL:
 In-depth analysis has been perfomed using SQL to find out useful insights that may help in reducing the churn rate. You can find SQL queries in <b> <a href="https://github.com/palak-kaur-sodhi/Customer-Churn-Analysis/blob/main/Telco_customer_churn.sql"> Telco_customer_churn.sql </a></b> file.
-<strong> SQL Concepts Used: <strong> DML statements, Aggregation Functions, Window Function, Subqueries, CTEs, Groups, Filters, Sorting & more.
+<strong> SQL Concepts Used: </strong> DML statements, Aggregation Functions, Window Function, Subqueries, CTEs, Groups, Filters, Sorting & more.
 
 ## Insights:
 ### About Customers -
